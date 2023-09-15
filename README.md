@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Pandey</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+
 <img align = "right" alt = "coding" width = 400 src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakboy&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakboy" /> </p>
@@ -14,10 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-pandey-a88258231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-pandey-a88258231/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_sarthaka_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_sarthaka_/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sarataku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sarataku/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pandeysarthak06/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pandeysarthak06/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://instagram.com/_sarthaka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sarthaka_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sarataku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarataku" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pandeysarthak06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pandeysarthak06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
